@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e7a97c;
+  padding: 30px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  width: 300px;
+  border-radius: 8px;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin: 6px 0;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
+
+.success {
+  color: green;
+  font-size: 16px;
+}
